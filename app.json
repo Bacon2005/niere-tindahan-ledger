@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-first-app",
-    "slug": "my-first-app",
+    "name": "Tyrone Niere Week2",
+    "slug": "tyrone-niere-week2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "963d523c-f8f3-42f9-a4ff-d107376255ad"
+      }
+    },
+    "owner": "bacon2005"
   }
 }
