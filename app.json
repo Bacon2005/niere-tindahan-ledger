@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Tyrone Niere Week2",
-    "slug": "tyrone-niere-week2",
+    "name": "Niere Tindahan Ledger",
+    "slug": "niere-tindahan-ledger",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myfirstapp",
+    "scheme": "nieretindahanledger",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
@@ -31,6 +31,15 @@
           "backgroundColor": "#208AEF",
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
+        }
+      ],
+      "expo-sqlite",
+      "expo-web-browser",
+      "expo-sqlite",
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "Tindahan Ledger uses the camera to take a photo of the store."
         }
       ]
     ],
